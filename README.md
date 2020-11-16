@@ -5,8 +5,11 @@ This is my Data Science portfolio that contains the Data Science and Data Analys
 ## Supervised Learning
   ### ***Linear Regression***
 
-  * [Simple Linear Regression__Predicting Co2 Emission](https://github.com/RajBathani/DataScience/blob/master/Linear%20Regression/Linear%20Regression_Co2%20Emission.ipynb):
-  * [Multiple Linear Regression__Predicting Co2 Emission](https://github.com/RajBathani/DataScience/blob/master/Linear%20Regression/Multiple%20Linear%20Regression_Co2%20Emission.ipynb):
+  * [Simple Linear Regression__Predicting Co2 Emission](https://github.com/RajBathani/DataScience/blob/master/Linear%20Regression/Linear%20Regression_Co2%20Emission.ipynb) 
+    * In this project, 
+    
+  * [Multiple Linear Regression__Predicting Co2 Emission](https://github.com/RajBathani/DataScience/blob/master/Linear%20Regression/Multiple%20Linear%20Regression_Co2%20Emission.ipynb)
+    * In this 
   
   ### ***Classification***
   * [K-Nearest Neighbours_Customer Segmentation](https://github.com/RajBathani/Machine-Learning_Classification/blob/main/KNN%20algorithm/Customer%20Segmentation_KNN.ipynb):
