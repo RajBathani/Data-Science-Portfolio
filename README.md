@@ -3,7 +3,7 @@ This is my Data Science portfolio that contains the Data Science and Data Analys
 
 # Machine Learning
 ## Supervised Learning
-  ### ***Linear Regression***
+  ### Linear Regression
 
   * [Simple Linear Regression__Predicting Co2 Emission](https://github.com/RajBathani/DataScience/blob/master/Linear%20Regression/Linear%20Regression_Co2%20Emission.ipynb) 
     * In this project, I have used Simple Linear Regression to predict Co2 emission using single independent variable 'FuelConsumption'.
@@ -13,7 +13,7 @@ This is my Data Science portfolio that contains the Data Science and Data Analys
     * In this project, I have used multiple Independent variables such as FuelConsumption, EngineSize and No.of Cylinders to predict Co2 emission.
     * As multiple independent variables have been used to predict the dependent variable, higher accuracy has been observed.
   
-  ### ***Classification***
+  ### Classification
   * [K-Nearest Neighbours_Customer Segmentation](https://github.com/RajBathani/Machine-Learning_Classification/blob/main/KNN%20algorithm/Customer%20Segmentation_KNN.ipynb):
     * The obective of this project is to build a classification model to be used to predict class of a new or unknown case. Given that, a telecommunication company has segmented its customer base by service usage patterns, categorizing the customers into four groups. In order to provide customized offers to prospective customers, the company has to predict the class of unknown cases.
     
@@ -21,8 +21,10 @@ This is my Data Science portfolio that contains the Data Science and Data Analys
     * The objective of this project is to use classification algorithm to build a model from historical data of patients, and their response to different medications. Then you use the trained decision tree to predict the class of a unknown patient, or to find a proper drug for a new patient. The dataset is about a medical research company, which has collected data about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of 5 medications, Drug A, Drug B, Drug c, Drug x and y. 
     
   * [Logistic Regression_Customer Churn Analysis](https://github.com/RajBathani/Machine-Learning_Classification/blob/main/Logistic%20Regression/Logistic%20Regression_Churn%20Analysis.ipynb):
-    * 
+    * Using Logistic Regression to predict when its customers will leave for a competitor (predicting customer churn), so that they can take some action to retain the customers. The given dataset is about A telecommunications company which is concerned about the number of customers leaving their land-line business for cable competitors. 
   
-  ### ***Collaborative Filtering - Recommender Systems***
+  ### Collaborative Filtering - Recommender Systems
    * [Collaborative Filtering_Movies Recommendation](https://github.com/RajBathani/Machine-Learning_Classification/blob/main/Collaborative%20Filtering_Recommneder%20System/Collaborative%20Filtering_Movies%20Recommendation.ipynb):
+    * A micro project to build a recommendation system that makes movie recommendations based on user review similarities. For finding similar users Pearson Correlation Function has been used. 
+
   
