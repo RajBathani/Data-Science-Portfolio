@@ -30,5 +30,16 @@ This is my Data Science portfolio that contains the Data Science and Data Analys
       
 ## Unsupervised Learning
  ***Clustering***
+  * [K - Means Clustering_Customer Sgementation](https://github.com/RajBathani/Machine-Learning_Clustering/blob/main/K-Means%20Clustering_Customer%20Segmentation/K-Means%20Clustering_Customer%20Segmentation.ipynb):
+     * The objective of this project is to segment customers base into groups of individuals that have similar characteristics. It is a significant strategy as a business can target these specific groups of customers and effectively allocate marketing resources.
+     
+     
+## Power BI : Data Visualization and Business Intelligence Project
+Goal : To design and deliver an end-to-end business intelligence solution to a global manufacturing company.
+   * Define and track KPIs(sales, revenue, profit, returns), compare regional performance, analyze product-level trends and forecasts, and identify high-value customers.
+   * Connect and transform raw data.
+   * Build a relational data model.
+   * Create new calculated columns and DAX measures.
+   * Design an interactive report to analyze and visualize the data.
 
   
