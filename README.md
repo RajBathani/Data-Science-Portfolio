@@ -42,4 +42,5 @@ Goal : To design and deliver an end-to-end business intelligence solution to a g
    * Create new calculated columns and DAX measures.
    * Design an interactive report to analyze and visualize the data.
    
-![](https://github.com/RajBathani/Data-Science-Portfolio/blob/main/Images/Customer_Details.JPG)
+![](https://github.com/RajBathani/Data-Science-Portfolio/blob/main/Images/Summary.JPG)
+
